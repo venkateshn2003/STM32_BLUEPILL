@@ -14,20 +14,25 @@ Design Files: Altium Designer project files (.PrjPcb, .SchDoc, .PcbDoc) and outp
 
 bash
 Copy code
-git clone https://github.com/yourusername/stm32-bluepill-altium.git
+git clone https://github.com/venkateshn2003/STM32_BLUEPILL.git
+
 Open in Altium Designer:
 
 Open the .PrjPcb file in Altium Designer to access the complete project.
+
 Review the Schematics:
 
 Navigate to the .SchDoc files to review and modify the schematic designs.
+
 Inspect the PCB Layout:
 
 Open the .PcbDoc files to view and adjust the PCB layout as needed.
+
 Generate Gerber Files:
 
 Use Altium Designer to generate Gerber files for PCB manufacturing.
-Contributions
+
+# Contributions
 Contributions are welcome! If you have improvements, bug fixes, or suggestions, please open an issue or submit a pull request.
 
 # License
