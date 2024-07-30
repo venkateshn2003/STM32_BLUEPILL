@@ -1,0 +1,8 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [STM_BLUEPILL.PcbDoc]
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:34:21 On 29-07-2024
